@@ -11,7 +11,7 @@ pulp.pulp3 - installs Pulp3 core
 Example Playbook
 ----------------
 
-https://raw.githubusercontent.com/pulp/devel/3.0-dev/ansible/deploy-pulp3.yml
+https://raw.githubusercontent.com/pulp/devel/master/ansible/deploy-pulp3.yml
 
 License
 -------
